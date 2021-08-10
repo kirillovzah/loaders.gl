@@ -30,6 +30,14 @@ Target Release Date: Q1 2022.
 
 - ArrowLoader now recognizes recommended Arrow MIME types `application/vnd.apache.arrow.file`, `application/vnd.apache.arrow.stream`.
 
+## v3.2
+
+Release Date: TBD, Q1-2022
+
+**@loaders.gl/arrow**
+
+- Now uses `apache-arrow` v7
+
 ## v3.1
 
 Release Date: Dec 7, 2021.
